@@ -1,0 +1,66 @@
+m255
+K4
+z2
+!s11e vcom 2023.3 2023.07, Jul 17 2023
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/micha/OneDrive/Documents/GitHub/FPGA/Practice/clock_Practice/simulation/questa
+Eclockpractice
+Z1 w1728013104
+Z2 DPx8 cyclonev 18 cyclonev_atom_pack 0 22 >D>R2d_S6gjU?;50QULVY3
+Z3 DPx8 cyclonev 19 cyclonev_components 0 22 ONcjb[o^6QUa5nInMXF]50
+Z4 DPx12 altera_lnsim 23 altera_lnsim_components 0 22 imPaHK;ANVA2FmRDgd8SZ0
+Z5 DPx4 ieee 16 vital_primitives 0 22 Y]H?Y_]z4@VoaWAGJ=36m1
+Z6 DPx6 altera 11 dffeas_pack 0 22 zdIMR1XmDVjRfzNPY?MRj3
+Z7 DPx4 ieee 12 vital_timing 0 22 6STbz=m1W[80IE06h_el^0
+Z8 DPx3 std 6 textio 0 22 LS[?81n5ZHWBI9JkBZTV<2
+Z9 DPx4 ieee 14 std_logic_1164 0 22 6<US`=mgl_dFdCEFF7J=m1
+Z10 DPx6 altera 28 altera_primitives_components 0 22 E4E]JL`Gg4N^O71N]`[G;0
+!i122 0
+R0
+Z11 8clockPractice.vho
+Z12 FclockPractice.vho
+l0
+L39 1
+VRHoi^3JnJlH9jVHg_e<ES1
+!s100 nE`TP8?;oOM_F8DhVfFk]2
+Z13 OL;C;2023.3;77
+31
+Z14 !s110 1728013111
+!i10b 1
+Z15 !s108 1728013110.000000
+Z16 !s90 -reportprogress|300|-93|-work|work|clockPractice.vho|
+!s107 clockPractice.vho|
+!i113 0
+Z17 o-93 -work work
+Z18 tExplicit 1 CvgOpt 0
+Astructure
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R10
+DEx4 work 13 clockpractice 0 22 RHoi^3JnJlH9jVHg_e<ES1
+!i122 0
+l95
+L60 465
+V;zz?1V@o>Yk3W:>M@aNOF1
+!s100 G6LzEXRVm3f@[B4W=LEb81
+R13
+31
+R14
+!i10b 1
+R15
+R16
+Z19 !s107 clockPractice.vho|
+!i113 0
+R17
+R18
