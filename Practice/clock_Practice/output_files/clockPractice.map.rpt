@@ -1,5 +1,5 @@
 Analysis & Synthesis report for clockPractice
-Thu Oct  3 20:37:25 2024
+Mon Oct  7 12:36:20 2024
 Quartus Prime Version 23.1std.1 Build 993 05/14/2024 SC Lite Edition
 
 
@@ -43,7 +43,7 @@ https://fpgasoftware.intel.com/eula.
 +----------------------------------------------------------------------------------+
 ; Analysis & Synthesis Summary                                                     ;
 +---------------------------------+------------------------------------------------+
-; Analysis & Synthesis Status     ; Successful - Thu Oct  3 20:37:25 2024          ;
+; Analysis & Synthesis Status     ; Successful - Mon Oct  7 12:36:20 2024          ;
 ; Quartus Prime Version           ; 23.1std.1 Build 993 05/14/2024 SC Lite Edition ;
 ; Revision Name                   ; clockPractice                                  ;
 ; Top-level Entity Name           ; clockPractice                                  ;
@@ -263,7 +263,7 @@ Note: For table entries with two numbers listed, the numbers in parentheses indi
 Info: *******************************************************************
 Info: Running Quartus Prime Analysis & Synthesis
     Info: Version 23.1std.1 Build 993 05/14/2024 SC Lite Edition
-    Info: Processing started: Thu Oct  3 20:37:18 2024
+    Info: Processing started: Mon Oct  7 12:36:08 2024
 Info: Command: quartus_map --read_settings_files=on --write_settings_files=off clockPractice -c clockPractice
 Warning (18236): Number of processors has not been specified which may cause overloading on shared machines.  Set the global assignment NUM_PARALLEL_PROCESSORS in your QSF to an appropriate value for best performance.
 Info (20030): Parallel compilation is enabled and will use 16 of the 16 processors detected
@@ -283,8 +283,8 @@ Info (21057): Implemented 18 device resources after synthesis - the final resour
     Info (21061): Implemented 8 logic cells
 Info: Quartus Prime Analysis & Synthesis was successful. 0 errors, 1 warning
     Info: Peak virtual memory: 4900 megabytes
-    Info: Processing ended: Thu Oct  3 20:37:25 2024
-    Info: Elapsed time: 00:00:07
-    Info: Total CPU time (on all processors): 00:00:08
+    Info: Processing ended: Mon Oct  7 12:36:20 2024
+    Info: Elapsed time: 00:00:12
+    Info: Total CPU time (on all processors): 00:00:16
 
 
